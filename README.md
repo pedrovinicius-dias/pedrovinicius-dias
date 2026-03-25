@@ -1,6 +1,6 @@
 # Olá, meu nome é Pedro Vinícius! 👋
 
-Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evolução. Atualmente curso **Ciência da Computação**, mergulhando cada vez mais fundo nos fundamentos e nas possibilidades que a computação oferece — da teoria à prática, dos algoritmos às interfaces. Acredito que a melhor forma de aprender é construindo, e é isso que faço todos os dias.
+Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evolução. Atualmente curso **Ciência da Computação**, mergulhando cada vez mais fundo nos fundamentos e nas possibilidades que a computação oferece. Acredito que a melhor forma de aprender é construindo, e é isso que tento fazer todos os dias.
 
 <br/>
 
