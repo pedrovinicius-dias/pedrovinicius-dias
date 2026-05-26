@@ -29,7 +29,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evo
 
 - 🎓 Cursando **Ciência da Computação** e explorando o universo da computação em suas diversas áreas
 - 💡 Descobrindo novas tecnologias e como elas podem resolver problemas reais
-- 🤖 Estudando e experimentando com **Inteligência Artificial**, especialmente com Claude AI
+- 🤖 Estudando e experimentando com **Inteligência Artificial**, especialmente com Antigravity AI / Gemini AI
 - 🛠️ Construindo projetos práticos para solidificar o que aprendo
 
 <br/>
