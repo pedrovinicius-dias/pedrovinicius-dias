@@ -8,7 +8,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scss,java,flutter,dart,python,git,github,obsidian,vscode,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,scss,java,idea,flutter,dart,cpp,python,git,github,obsidian,vscode,&theme=dark" />
   </a>
 </p>
 
