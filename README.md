@@ -6,11 +6,31 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evo
 
 ## 🚀 Tecnologias que uso
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scss,java,idea,flutter,dart,cpp,python,git,github,obsidian,vscode,&theme=dark" />
-  </a>
-</p>
+<div align="center">
+
+### 🎨 Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart&theme=dark" />
+
+<br>
+
+### ⚙️ Back-end
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python&theme=dark" />
+
+<br>
+
+### 🗄️ Bancos de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
+
+<br>
+
+### 🛠️ Ferramentas
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,figma,vercel&theme=dark" />
+
+</div>
 
 <br/>
 
