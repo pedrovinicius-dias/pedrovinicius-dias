@@ -28,7 +28,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evo
 
 ### 🧰 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,figma,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,obsidian,vercel&theme=dark" />
 
 </div>
 
