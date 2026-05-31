@@ -16,7 +16,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evo
 
 ### ⚙️ Back-end
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python&theme=dark" />
 
 <br>
 
