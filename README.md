@@ -10,7 +10,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evo
 
 ### 🎨 Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,flutter,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,typescript,flutter,dart&theme=dark" />
 
 <br>
 
