@@ -22,7 +22,7 @@ Atualmente curso **Ciência da Computação**, mergulhando cada vez mais fundo n
 
 ### 🗄️ Bancos de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" />
 
 <br>
 
