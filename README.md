@@ -10,7 +10,7 @@ Atualmente curso **Ciência da Computação**, mergulhando cada vez mais fundo n
 
 ### 🎨 Front-end
 
-<img src="https://skillicons.dev/icons?i=js,react,typescript,flutter,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,flutter,dart&theme=dark" />
 
 <br>
 
