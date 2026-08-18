@@ -16,7 +16,7 @@ Atualmente curso **Ciência da Computação**, mergulhando cada vez mais fundo n
 
 ### ⚙️ Back-end
 
-<img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python,c&theme=dark" />
 
 <br>
 
