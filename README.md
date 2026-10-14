@@ -22,7 +22,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e em constante evo
 
 ### 🗄️ Bancos de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark" />
 
 <br>
 
